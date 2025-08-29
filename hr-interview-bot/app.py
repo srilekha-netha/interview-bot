@@ -150,7 +150,7 @@ elif st.session_state.page == "Interview":
                     timer_placeholder.markdown(f"⏰ Time left: **{st.session_state.timer}** seconds")
                     st.session_state.timer -= 1
                     time.sleep(1)
-                    st.experimental_rerun()
+                    st.rerun()
                 else:
                     timer_placeholder.markdown("⏰ Time's up!")
 
@@ -160,7 +160,7 @@ elif st.session_state.page == "Interview":
                         st.session_state.current_index += 1
                         st.session_state.timer = 60
                         st.session_state.waiting_for_audio = True   # ✅ each new Q will be spoken
-                        st.experimental_rerun()
+                        st.rerun()
                     else:
                         st.success("✅ You have completed all questions!")
 
