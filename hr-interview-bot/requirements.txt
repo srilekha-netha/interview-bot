@@ -1,6 +1,8 @@
 streamlit
 streamlit-webrtc
 langchain
+langchain-community
+langchain-groq
 faiss-cpu
 sentence-transformers
 docx2txt
@@ -9,3 +11,4 @@ spacy
 groq
 python-dotenv
 gTTS
+
