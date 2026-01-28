@@ -43,7 +43,8 @@ This project demonstrates the practical application of **Generative AI**, **NLP*
 ---
 
 ## 📁 Project Structure
-  <img width="636" height="433" alt="image" src="https://github.com/user-attachments/assets/be416a26-fe7e-4264-9e2d-1b058d334157" />
+ <img width="389" height="531" alt="image" src="https://github.com/user-attachments/assets/9ae5f4cd-c52c-4a00-b8ff-f9b7e1ce3b3c" />
+
 
 ---
 
